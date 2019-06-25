@@ -6,9 +6,13 @@
 				text-decoration: none;
 			}
 			
-			.content{
+			.title{
 				text-align: center;
 				margin-top: 100px;	
+			}
+			
+			.content{
+				text-align: left;
 			}
 			
 			body {
